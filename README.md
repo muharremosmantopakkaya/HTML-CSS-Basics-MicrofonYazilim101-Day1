@@ -1,6 +1,6 @@
 # HTML-CSS-Basics-MicrofonYazilim101-Day1
 
-Bu repo, Microfon Yazılım 101 etkinliği kapsamında Sayın Ömer Fatih Tanrıverdi hocamızın yönlendirmesiyle oluşturulmuş basit bir web sayfasını içermektedir.
+Bu repo, Microfon Yazılım 101 etkinliği kapsamında Ömer Fatih Tanrıverdi hocamızın yönlendirmesiyle oluşturulmuş basit bir web sayfasını içermektedir.
 
 ## İçerik
 
@@ -17,7 +17,7 @@ Bu kodu kendi bilgisayarınızda çalıştırmak için:
 
 ## Teşekkürler
 
-Bu kodların oluşturulmasında değerli katkılarından dolayı Sayın Ömer Fatih Tanrıverdi'ye teşekkür ederim.
+Bu kodların oluşturulmasında değerli katkılarından dolayı hocamız Ömer Fatih Tanrıverdi'ye teşekkür ederim.
 
 
 Created with CodeSandbox
